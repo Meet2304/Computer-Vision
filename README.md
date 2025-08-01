@@ -1,4 +1,6 @@
+<align = 'center'>
 # Computer Vision 
+</align>
 
 This repository serves as a structured archive of everything I’ve been learning — from foundational techniques to modern deep learning-based approaches.
 
