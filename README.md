@@ -1,8 +1,13 @@
 <p align = 'center'>
-# Computer Vision 
+  <img src = 'https://github.com/Meet2304/Computer-Vision/blob/main/Computer%20Vision-Header.png'>
 </p>
 
+<h1 align="center">Computer Vision</h1>
+
+<p align = 'justify'>
 This repository serves as a structured archive of everything I’ve been learning — from foundational techniques to modern deep learning-based approaches.
+<br>
+</p>
 
 ## Repository Structure
 
