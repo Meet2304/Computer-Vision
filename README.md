@@ -33,7 +33,6 @@ This is a reference for both myself and others who want a hands-on approach to m
 - PyTorch or TensorFlow (for deep learning sections)
 
 ## How to Use
-
 - Clone the repository.
 - Navigate to any topic folder to get started.
 - Each section contains well-commented scripts and, where relevant, Jupyter notebooks.
@@ -41,4 +40,3 @@ This is a reference for both myself and others who want a hands-on approach to m
 
 ---
 
-Learning by doing. Building by breaking. Always curious.
